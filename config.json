@@ -1,0 +1,6 @@
+{
+    "address": "127.0.0.1",
+    "port": 8080,
+    "cert_file": "./crypto/certificate.pem",
+    "key_file": "./crypto/private_key.pem"
+}
